@@ -1,0 +1,118 @@
+.header{
+    width: 350px;
+    height: 450px;
+    border: 1px solid gray;
+    background-color: transparent;
+   
+}
+.header1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+}
+#class{
+   width: 250px;
+   height: 30px;
+   font-size: 18px;
+   text-align: center;
+   border-radius: 8px;
+   
+
+}
+.input{
+    text-align: center;
+    margin-top: 20px;
+    
+    
+}
+.input1{
+    text-align: center;
+    padding-top: 20px;
+}
+#class1{ width: 250px;
+    height: 30px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 8px;
+    
+    
+    
+}
+.input2{
+text-align: center;
+padding-top: 20px;
+}
+#class2{
+    width: 250px;
+    height: 30px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 8px;
+    
+
+}
+.input3{
+    text-align: center;
+    padding-top: 20px;
+}
+#class3{
+    width: 250px;
+    height: 30px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 8px;
+    
+}
+.input4{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    
+
+}
+#class4 span{
+    margin-right: 20px;
+}
+.map a{
+    text-decoration: none;
+}
+.solid{
+    text-align: center;
+    padding-top: 20px;
+}
+#liqid{
+    width: 250px;
+    height: 30px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 8px;
+    
+
+}
+.matter li{
+    list-style: none;
+}
+.matter a{
+    text-decoration: none;
+}
+.matter{
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.submit{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+#btn1{
+    width: 100px;
+    height: 35px;
+    font-size: 18px;
+}
+#reset{
+    width: 100px;
+    height: 35px;
+    font-size: 18px;
+}
+
